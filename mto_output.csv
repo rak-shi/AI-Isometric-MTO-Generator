@@ -1,0 +1,20 @@
+item_no,category,description,size_nps,schedule_rating,material_spec,end_type,quantity,unit,length_m,confidence,remarks
+1,PIPE,Pipe Seamless,"2""",SCH40,ASTM A106 Gr.B,BW,1,M,66.5,0.5,Estimated length from isometric grid
+2,PIPE,Pipe Seamless,"1.5""",SCH40,ASTM A106 Gr.B,BW,1,M,9.0,0.5,Estimated length from isometric grid
+3,PIPE,Pipe Seamless,"3/4""",SCH40,ASTM A106 Gr.B,BW,1,M,1.0,0.5,Estimated length from isometric grid
+4,VALVE,"Gate Valve, Flanged","2""",150#,ASTM A216 WCB,FLG,5,EA,0.0,0.9,"Items (1, 7, 19, 32, 47)"
+5,VALVE,"Globe Valve, Flanged","1.5""",150#,ASTM A216 WCB,FLG,1,EA,0.0,0.9,Item (13)
+6,FITTING,Elbow 90deg Long Radius,"2""",SCH40,ASTM A234 WPB,BW,28,EA,0.0,0.9,"Items (3,4,5,6,17,21,22,23,25,26,27,29,30,34,37,38,39,42,43,44,49,50,53,54,57,58,61,62)"
+7,FITTING,Elbow 90deg Long Radius,"1.5""",SCH40,ASTM A234 WPB,BW,3,EA,0.0,0.9,"Items (10, 12, 15)"
+8,FITTING,Reducer Concentric,"2""x1.5""",SCH40,ASTM A234 WPB,BW,1,EA,0.0,0.9,Item (9)
+9,FITTING,Reducer Concentric,"1.5""x2""",SCH40,ASTM A234 WPB,BW,1,EA,0.0,0.9,Item (16)
+10,FITTING,Tee Equal,"2""",SCH40,ASTM A234 WPB,BW,3,EA,0.0,0.9,"Tees near SN.No.300(3), SN.No.300(2), SN.No.300(1)"
+11,FITTING,Tee Reducing,"2""x2""x3/4""",SCH40,ASTM A234 WPB,BW,1,EA,0.0,0.9,"Tee near SN.No.300(6) for 3/4"" branch"
+12,FLANGE,Weld Neck Flange,"2""",150#,ASTM A105,BW,22,EA,0.0,0.9,"Items (2,8,20,24,28,31,33,35,36,40,41,45,46,48,51,52,55,56,59,60,63,64)"
+13,FLANGE,Weld Neck Flange,"1.5""",150#,ASTM A105,BW,1,EA,0.0,0.9,Item (14)
+14,FLANGE,Blind Flange,"2""",150#,ASTM A105,RF,1,EA,0.0,0.9,Item (18)
+15,FLANGE,Blind Flange,"1.5""",150#,ASTM A105,RF,1,EA,0.0,0.9,Item (11)
+16,GASKET,"Gasket, Spiral Wound","2""",150#,SS/FG,RF,28,EA,0.0,0.8,"For 28 x 2"" flanged joints (5 valves @ 2 ends - 5 explicit flanges + 17 WN flanges + 1 blind flange)"
+17,GASKET,"Gasket, Spiral Wound","1.5""",150#,SS/FG,RF,3,EA,0.0,0.8,"For 3 x 1.5"" flanged joints (1 valve @ 2 ends - 1 explicit flange + 1 blind flange)"
+18,BOLT,"Bolt Set, Stud Bolt & 2 Nuts","2""",150#,ASTM A193 Gr.B7 / A194 Gr.2H,,28,EA,0.0,0.8,"For 28 x 2"" flanged joints"
+19,BOLT,"Bolt Set, Stud Bolt & 2 Nuts","1.5""",150#,ASTM A193 Gr.B7 / A194 Gr.2H,,3,EA,0.0,0.8,"For 3 x 1.5"" flanged joints"
